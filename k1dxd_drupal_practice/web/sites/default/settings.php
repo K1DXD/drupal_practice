@@ -891,7 +891,7 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 
-$settings['config_sync_directory'] = '../../config/global';
+$settings['config_sync_directory'] = '../config/global';
 $config['system.logging']['error_level'] = 'verbose';
 $databases['default']['default'] = array (
   'database' => 'k1dxd_drupal_practice',

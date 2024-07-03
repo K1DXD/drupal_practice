@@ -18,9 +18,9 @@ class SeedGeneratorCommand extends DrushCommands {
    * @usage drush offer-create-seeds
    * Display 'Seed data created'
    */
-  public function offerCreateSeeds() {
+  public function OfferCreateSeeds() {
     $seed = new SeedDataGenerator();
-    $count = $seed->generate('user');
+    $count = $seed->Generate('user');
     Drush::output()->writeln($count . ' user(s) created');
   }
 }

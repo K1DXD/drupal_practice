@@ -17,7 +17,7 @@ Class SeedDataGenerator {
    * @return integer $count
    * The number of entities created.
    */
-  public function generate($entity) {
+  public function Generate($entity) {
     $count = 0;
     switch ($entity) {
       case 'user':

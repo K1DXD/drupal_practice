@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Commands/SeedGeneratorCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Commands/SeedGeneratorCommand.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/SeedData/SeedDataGenerator.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/SeedData/SeedDataGenerator.php" afterDir="false" />
     </list>
@@ -164,7 +165,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719991139690</updated>
       <workItem from="1719991141885" duration="778000" />
-      <workItem from="1719991932769" duration="2262000" />
+      <workItem from="1719991932769" duration="3497000" />
     </task>
     <servers />
   </component>

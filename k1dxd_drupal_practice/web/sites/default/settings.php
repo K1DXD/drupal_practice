@@ -256,7 +256,7 @@ $databases = [];
  * directory in the public files path. The setting below allows you to set
  * its location.
  */
-# $settings['config_sync_directory'] = '/directory/outside/webroot';
+$settings['config_sync_directory'] = '../config/global';
 
 /**
  * Settings:
@@ -286,7 +286,7 @@ $databases = [];
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = '4ysWf3Zt-XUwXcMTaMq4YzLeVQqyjQr08Wjyw0c8zbBwoQn2OJ4B4_7rSuaGUt9LcunwG0VHJg';
+$settings['hash_salt'] = 'dRf77IIp1phareb70vQ9qFHodTU1MfYnD8hv-rRvQ5FnVyOfC9SshvHIqy5x0Ybi5yypTKEAIQ';
 
 /**
  * Deployment identifier.
@@ -895,11 +895,10 @@ $databases['default']['default'] = array (
   'username' => 'root',
   'password' => 'magento',
   'prefix' => '',
-  'host' => 'glamira2-mysql',
+  'host' => 'glamira2_mysql',
   'port' => '3306',
   'isolation_level' => 'READ COMMITTED',
   'driver' => 'mysql',
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
-$settings['config_sync_directory'] = 'sites/default/files/config_drN8hXSwpAdvI_WuYKtMJfV_yd2IB2RzgLGqYC3x7VgicW8EJ5DxRI2MlE5WZlfQR2f-KzAN4A/sync';

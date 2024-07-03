@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/offer.customconfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_002--database.svg_Uq5hjzDqf6zjrpHo-9tGO33hr/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_002--database.svg_Uq5hjzDqf6zjrpHo-9tGO33hr/ohjD0l-VRQpE0SA0UHX5Cw1ZNULBjYykpqR7B6ethOM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_006--blocks.svg_H0NeVEPG7lpruTvoh0I0ByTh4/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_006--blocks.svg_H0NeVEPG7lpruTvoh0I0ByTh4/7MtGkNABum50Zoe8WupfOeMHcOtnx2WBosZELTirLI8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_007--views.svg_x1H55ZwHS_pCmS3hMeNpbMwaU/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_007--views.svg_x1H55ZwHS_pCmS3hMeNpbMwaU/HoKsHxUhbPsitkgRlx5Xb9LayIFu3j3cSoxkF3V62rI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe___string_template__266338_YhhAnju1PiHOb6XjLZOs8VbPT/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe___string_template__266338_YhhAnju1PiHOb6XjLZOs8VbPT/yOSut1aFufvtgcOC7AOgPHBoSIvdA2Yz5EII8gbZy7g.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-block-content.html._C_zrbAkx1NJEOUGr0SpYMBFb7/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-block-content.html._C_zrbAkx1NJEOUGr0SpYMBFb7/odASWHlZYeY-fZmfOFPq_pLHOsfEkEMeENQY87wgzgc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-block.html.twig_hg3EgdgYV3WwAnuv7CK1nRaue/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-block.html.twig_hg3EgdgYV3WwAnuv7CK1nRaue/4dlt-MkBTZy38OehpKuDFST3KfVXU5nQm7vY1_rnY84.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-page.html.twig_E02hRJL1UTaQeB088oxG2BxQA/--sJxNjYwr7UhV_awRog2QVXymO4XFFpk3MuklQwV2s.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_admin-page.html.twig_E02hRJL1UTaQeB088oxG2BxQA/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_ajax.html.twig_4fujuqKYNIDYAI0vIbeXBUW5I/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_ajax.html.twig_4fujuqKYNIDYAI0vIbeXBUW5I/ZN_tkPqGjGvJ-dA5O8aBJ2RmoOHkZv3Y7P_i5oQpvwQ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_ajax.svg_wxBlvZOcbI8gLT_HwBdhJBX-T/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_ajax.svg_wxBlvZOcbI8gLT_HwBdhJBX-T/2tPSUCewBihAHUfJ49TctxKU7wKEkuqcMu0aYz9qfqs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_base_js.html.twig_0Y20HOqQIleozIMpmI6lkbAhT/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_base_js.html.twig_0Y20HOqQIleozIMpmI6lkbAhT/VAXhXXouqRgPPvhopUef6gah_XzBBqZe1g1yaFfPhUM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_big-pipe-interface-previe_On5Ca5Y2U6DMMlr2TPENzkLYJ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_big-pipe-interface-previe_On5Ca5Y2U6DMMlr2TPENzkLYJ/iupFWEzAttt9a5CSrTz9rfpH3d6HUmoAAyxsO1r9ls8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--page-title-block.h_qweRBKfjvafXthENKXv9tt19o/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--page-title-block.h_qweRBKfjvafXthENKXv9tt19o/sLOLYIOpjdR6PL_Mrq76wZPtebLZlM75JPZx48QWdYE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--primary-menu--plug_JSEHDGxlkpTB9KsJdGJiZYprd/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--primary-menu--plug_JSEHDGxlkpTB9KsJdGJiZYprd/A7IR7YDbv52NLrM3o4RX-Wfuca0Sa3p82LOyWAacqSE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--secondary-menu--pl_EzKCctj_8nLtZhDtzsNvTOm-x/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--secondary-menu--pl_EzKCctj_8nLtZhDtzsNvTOm-x/h3OmTGwrKYo7VNhCS9VZyM4TMi-mDArJrQsVoXO-NRM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--secondary-menu.htm_sisgcc5d5hByXTGsmGk9RDQez/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--secondary-menu.htm_sisgcc5d5hByXTGsmGk9RDQez/OibYFh7HXcOL5X1QPbD9WurCMdPbt9LKr-5PISb42iY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-branding-bl_tjuO9JrhyVNWRCRsTvRscuE9E/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-branding-bl_tjuO9JrhyVNWRCRsTvRscuE9E/_rZi4Wja0JoKRanVgnxjqpg_xeZmC_ulypzR_ZyKR1Q.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-menu-block._AfzvyU2owxYVXuc0OxNLitffl/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-menu-block._AfzvyU2owxYVXuc0OxNLitffl/jzBY68zwc1qABCy80sbjPXW0a3GHSWg2DJCWCN-Kc70.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-messages-bl_V_xFCj1CuUFYxVdwTpatFIeZ6/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-messages-bl_V_xFCj1CuUFYxVdwTpatFIeZ6/T-L0HiuViXFsbA-s3-6WGfPxwwjTf0VhYHT3RQjR1WU.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-powered-by-_pgSHczp_vRjW0w5RvuMbSetjr/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block--system-powered-by-_pgSHczp_vRjW0w5RvuMbSetjr/bu5NGgi72qRBHLxOQafv3n53eG0WW2jN1RjocZU6DNE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block.html.twig_oWyssOqIxmJuzbxVUn89R5lyZ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block.html.twig_oWyssOqIxmJuzbxVUn89R5lyZ/PAHl6IJwCr4TuVgYwSypa0pjvmoc3kemfvWfb0I8G7k.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block.html.twig_yNv7e0tZivrfomW3CAcNUfRrV/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_block.html.twig_yNv7e0tZivrfomW3CAcNUfRrV/89Y-2n4uYm30Kfq7iYUPs7mQ8HMmwOGYRGUMb_8ON7w.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_blocks.html.twig_q8Csirr45lL8XqbCSUBmyKA2K/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_blocks.html.twig_q8Csirr45lL8XqbCSUBmyKA2K/7ApUJZ7WoCu9JIHCkKHx_as256b0OHLvsDuGFtaFP1w.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_breadcrumb.html.twig_C2FMFraAhSsEFICahCQOO4mqE/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_breadcrumb.html.twig_C2FMFraAhSsEFICahCQOO4mqE/YhLpkSC_rz2z1_hfTBDOkcVT1acTI7S7iZ1qlwLHtCQ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_cancel.html.twig_f2z6JqRsWHbXmWXi2znk0iARs/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_cancel.html.twig_f2z6JqRsWHbXmWXi2znk0iARs/XuNAUuKIVRCIyAM3EDjkGThr2Jbuhi8y5y3S_Hej-BE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_close.svg_k7_W_tem6pN2lEL4BL70FVTNu/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_close.svg_k7_W_tem6pN2lEL4BL70FVTNu/7QTykMojCfK0Jqk2YFejxu9eGi2-mnc0b8fCV88M_wU.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_config.svg_gDoFm-Nwblg5J17ehDB28bHhW/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_config.svg_gDoFm-Nwblg5J17ehDB28bHhW/ma3-e2LHyCtui4odzns205X6tL82jQh8Tl1yaukMG-0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_container.html.twig_o2-p1kytywrljQl0YirEAXy2p/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_container.html.twig_o2-p1kytywrljQl0YirEAXy2p/hG6my6sBHI8wF4NlEogDIsX8QUoVdvn5xtmlkwOdFTY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_database.html.twig_SH-a9VU1Mu0rrq-8hCKB82RS1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_database.html.twig_SH-a9VU1Mu0rrq-8hCKB82RS1/9QfUivfdCxbnGqhVr1sTDLgwsoRXZnaDFsNhww_ykPs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_details.html.twig_IaitGHRzqE4WJ29yDZeTlDira/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_details.html.twig_IaitGHRzqE4WJ29yDZeTlDira/mf-vi0SNjVMrCjTdkUG3B63CY9tV9mN1v3NBE-FdEoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_devel.html.twig_3jMZr-2eEtdKSrtAeysmErD6w/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_devel.html.twig_3jMZr-2eEtdKSrtAeysmErD6w/J6qIV09YXPUR6z4q58kG3aReBiI9fetSQei5cuZY46w.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal-10.svg_AFo-5ZxUTzCLmbKg3CKZPU5yr/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal-10.svg_AFo-5ZxUTzCLmbKg3CKZPU5yr/iTXez_lisBBqA9hq1XsRY9xdlmuErsNsbEEjfDRC_jo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal.html.twig_JEHpmkJKdzk-8NbTIvKMbd08C/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal.html.twig_JEHpmkJKdzk-8NbTIvKMbd08C/kz1lmn8AJ_ilGI0wOwt0f511ehWpirRGx7-hmNoNu6k.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal.svg_Wz44jzTJa5Kb9yVKec572NdK6/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_drupal.svg_Wz44jzTJa5Kb9yVKec572NdK6/8ojPRNl0Ue1iYNdeOOZpjcJ4aQ950zOSotp9tA1FSy8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_feed-icon.html.twig_QmyQ8_EkUddEMsGZX_Wg6GPYj/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_feed-icon.html.twig_QmyQ8_EkUddEMsGZX_Wg6GPYj/cb1GyeIZ7i0-PIQkxJhGfkfpa93jHMhK9-8JzfBMB1c.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form--search-block-form.h_wCFXR_yNzFa0fARr-MOVs_SJ-/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form--search-block-form.h_wCFXR_yNzFa0fARr-MOVs_SJ-/HxL3xC5O0NYmai-Fgox1IoQI51VUlPWnPNbjdXac3hA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element-label.html.t_HRP6vx7DMzEoU3oB6LhrKmHDB/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element-label.html.t_HRP6vx7DMzEoU3oB6LhrKmHDB/Dh7xdBmAznZYox8Yj55gBVuzs024NkEe6daaQZ9BPm8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element-label.html.t_WiaWc2CV83MjjzLmLpcb_Joet/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element-label.html.t_WiaWc2CV83MjjzLmLpcb_Joet/Bv1T41iWMdVJrpuz974JjWN8TlI1mZ8hwJHv0utwF-0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element.html.twig_TR0OqOrba7dXEN9vwcgqyfzi5/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element.html.twig_TR0OqOrba7dXEN9vwcgqyfzi5/qawc3XE1yvn1aGpE03uyc6AoD4zbG-9buiJLPG9Jmrg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element.html.twig_vh4L_VoMQ_3F6vu-41CgIA1B_/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form-element.html.twig_vh4L_VoMQ_3F6vu-41CgIA1B_/O1NM_y3dMDpkI8U1JGpSvk-Zm8c58rlbGECI7bxynTw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form.html.twig_vf0ChZTUWRtxCM7WqZhrZwjCk/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form.html.twig_vf0ChZTUWRtxCM7WqZhrZwjCk/CcUwL6kpRfDH_3cwv5GqcdW0ZHAb3R7zaXAWJAzl-xE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form.svg_QMyYMOhoPzDEst3BhOB-qZgJw/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_form.svg_QMyYMOhoPzDEst3BhOB-qZgJw/mtFHfXlogDnLJa2xTZ_jgK3DVBjMMsK4WJ4lNHZQ-bQ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_forms.html.twig_b7UFjVMRCZdYecIFlKGGVwMuv/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_forms.html.twig_b7UFjVMRCZdYecIFlKGGVwMuv/LNcayiujDWgG3M1cnlBdEPFLYuR9-XJ34sMj5MntrHM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_get-started.html.twig_4H1nUHhvwXdzyuo3N8U-0-I2f/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_get-started.html.twig_4H1nUHhvwXdzyuo3N8U-0-I2f/kiRUvX3qB6vWY2PeBjYP78bktBgzVrpgAtwxb4DZ8bM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_html.html.twig_CdCnTM4oTvBkSNPM7A1XFQLK1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_html.html.twig_CdCnTM4oTvBkSNPM7A1XFQLK1/VPmI0iRabTsTm-08-zENGH32ZsG6Um_sYHg5_34VX6s.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_html.html.twig_bPAsSvaWE8tBhDwWJwqL__qSs/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_html.html.twig_bPAsSvaWE8tBhDwWJwqL__qSs/s6JpXNv8IeAS1snQUsW02x3dL_9pBRzwu5OCuM9sqoY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input--submit--header-sea_RxrX8k_HGAN-Yak6eh8rDsNHf/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input--submit--header-sea_RxrX8k_HGAN-Yak6eh8rDsNHf/3pvXh796wDXD6SdwHuIqL2sNcpn_XJPogxaXvjA-8o4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input.html.twig_BeMSp9B9io3y-7t5JxTuJR6WF/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input.html.twig_BeMSp9B9io3y-7t5JxTuJR6WF/XI4itY75MvmRd0059w1xYXwePD2SXIsbZjr9qjCsA6k.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input.html.twig_Dacqdmx3-uadJpd2wMW07ck5n/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_input.html.twig_Dacqdmx3-uadJpd2wMW07ck5n/qynrXLXxKwnzukKVime1dWAIcHO2X9W_CY_UTnDF28c.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_item-list.html.twig_-VI_dGQaX_9Wl3cPwBOrBR_Ww/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_item-list.html.twig_-VI_dGQaX_9Wl3cPwBOrBR_Ww/60Bf8MfGylr71SDkJl2_Yg0MGoaEFwAqUbmYcCTBNx8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_links.html.twig_JAPr5hiuOJKcipQcP45WrAJZi/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_links.html.twig_JAPr5hiuOJKcipQcP45WrAJZi/nH5g77NofIQfZzu1MCPiGXPrpWkKq9o1Qoahg5rw63M.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_links.html.twig_nfl9Yl2gGvfZpnl8PhnHQY0mU/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_links.html.twig_nfl9Yl2gGvfZpnl8PhnHQY0mU/zeli7wPyLotgh3PhEDl-444yxro1lO-yfLvVGlMu8c0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_memory.html.twig_QxyfEDfSCM1OK2LHhce8pvTQr/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_memory.html.twig_QxyfEDfSCM1OK2LHhce8pvTQr/79owmfIFxVcl7-AmX2iX2i0rqAbRJWV6NEvoCtG5PO4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_memory.svg_pHlDbVK8m7NGHHYiFy3TqQZEU/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_memory.svg_pHlDbVK8m7NGHHYiFy3TqQZEU/v4A5ey4GF6XjqsljC6MWbhMm2gvNpG_YIJBRE3uqMn8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--primary-menu.html.t_MXpq_DU10FPzzG6q7j4FnzKku/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--primary-menu.html.t_MXpq_DU10FPzzG6q7j4FnzKku/aQm479R7Seuy5i89VgUKwzIiMoZgQ40H4Vn15ullN_M.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--secondary-menu.html_s_sqOQgZaCferM2d60IHT3RKG/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--secondary-menu.html_s_sqOQgZaCferM2d60IHT3RKG/mGXGc9b6VtNtJYa1aIkk7z6eRFJj_oJrbriWKP2s6t8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--toolbar.html.twig_VO73TI4MxB7VOxs7sTo38_UOE/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu--toolbar.html.twig_VO73TI4MxB7VOxs7sTo38_UOE/3kAe0op4S6nw2QAHzEugtPnB2al7umOqbIMTm8jdoKM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu.html.twig_BdDq2kUvtV9m5-j2DZMdg32QZ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu.html.twig_BdDq2kUvtV9m5-j2DZMdg32QZ/D4TDfIzB7gdhlL9sHZoGaWB5qE9lJR1vy6A7ZVc9Hkk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu.html.twig_bdQR7N3SyAaEv50ZqurT_D0C9/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_menu.html.twig_bdQR7N3SyAaEv50ZqurT_D0C9/0qGBnhZGWZoupD6rd3NZFxh7Fs8WTa7ynOpfOcTAe0Q.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_off-canvas-page-wrapper.h_AG9e0RuAy-wPS4BG8ItDxHoKl/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_off-canvas-page-wrapper.h_AG9e0RuAy-wPS4BG8ItDxHoKl/346qBp-hSzFJUPGvRN1EO5p6jf8xFwF82KxynE85wEs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_off-canvas-page-wrapper.h_McbbT4AF2J9HK5cHjooJiwAxZ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_off-canvas-page-wrapper.h_McbbT4AF2J9HK5cHjooJiwAxZ/MiJFbyNwpEx16OqzMSxyuONge08K8ToV8Pu7ktrRzJA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page-title.html.twig_Y_59tYGzkg9SbXO4VG087DCl7/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page-title.html.twig_Y_59tYGzkg9SbXO4VG087DCl7/yqZi3FwDLPoCB9e1_6f0lDrXhiqEiH8HmyCNu_0V29U.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page-title.html.twig_oMBbHRMridnpIzuXkkmqiByc0/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page-title.html.twig_oMBbHRMridnpIzuXkkmqiByc0/mPM1t2yM4ldh2s5Q4eNU-s0Tb-22gBg85r3kGOSoDzo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page.html.twig_8f-mNZq3eAifPOlnYYqtiSGbo/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page.html.twig_8f-mNZq3eAifPOlnYYqtiSGbo/s1TM-K2P8v_fnjOstJ_M2BrwlOAQItDepfWEWp6F65A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page.html.twig_vOZ5Pi0-1BtjWuhVMNP0PjALS/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_page.html.twig_vOZ5Pi0-1BtjWuhVMNP0PjALS/JVxHrxn1WpMJORXSctI1ewZ-vuknxMTg2zzQaeWw7g0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_pager.html.twig_hputQYHF3ExrzBB84Uv_7cFzR/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_pager.html.twig_hputQYHF3ExrzBB84Uv_7cFzR/YrNFBTX7k89rYA-ZGUaMiA8vtKG12fx_PC4EFOyGIh4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_preload.twig_WB6941hnCmy_U0bsMebUV6R-b/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_preload.twig_WB6941hnCmy_U0bsMebUV6R-b/whifoUuAImXOqcBApfOtnXs736Ho1JiCRIm8lN6Yu-k.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_redirect.svg_Lx1OOnUIKY39qAaxnbxbBsf3n/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_redirect.svg_Lx1OOnUIKY39qAaxnbxbBsf3n/wJ61x_gUnOEV1jH8iS7heBKegkxUFsrIAmk2wMRvHF0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--breadcrumb.html.t_9Mx7TJYIse2qqwJIh61lDTAOA/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--breadcrumb.html.t_9Mx7TJYIse2qqwJIh61lDTAOA/UZ_uLF2Gs3_I9IW7cWojO-dEHnkF17w1Fe1Qx-ghNBk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--breadcrumb.html.t_aK7ZwiwQdjRrzHivdj0HDG173/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--breadcrumb.html.t_aK7ZwiwQdjRrzHivdj0HDG173/rVqPB8jH7duVoT3RO-i8-vzppfEGyqj3NyrlEipjbSk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--content-above.htm_iyq0aSxvXd4mYc6Oj3bMg1anc/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--content-above.htm_iyq0aSxvXd4mYc6Oj3bMg1anc/kAEMc0fXhtNACIGuyGbaGSL0D2AVLHcdD_tRzQ7JMCw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--content.html.twig_iPi_KXOIxPcNq11jUpFLna5bZ/-ItLHBE_RGaMlmUOnj9Zw0nVxSOtB8NxF8HEuIqMhEE.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--content.html.twig_iPi_KXOIxPcNq11jUpFLna5bZ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--footer-bottom.htm_DEAjWrYyONCqYxWco8sAT4REv/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--footer-bottom.htm_DEAjWrYyONCqYxWco8sAT4REv/CqYS9m478L-JVWcQMpKsWaIETNi6JUnZX6efksG71c4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--header.html.twig_cNEhc0kcCw-CuKvruKhCbXHpB/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--header.html.twig_cNEhc0kcCw-CuKvruKhCbXHpB/Tuc6gDLX5U0zNZGKJ2KWD_XKIwxkSBzLLsTaUJ0TUGI.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--highlighted.html._T_AAHhVnJJoZwhpPJsXBVRkBW/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--highlighted.html._T_AAHhVnJJoZwhpPJsXBVRkBW/cRUyXfiZxeE1wj80WdZoIcwOI1MZLss-t2wi7VucYTU.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--primary-menu.html_WtHlzbGB5V30-Tc9tuU6RAwlm/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--primary-menu.html_WtHlzbGB5V30-Tc9tuU6RAwlm/xMfPWYXAuzSb29Wo-g5nHitytnPxRK4y6dQcShD8UJY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--secondary-menu.ht_V1P-NQarnLcqniuJFG-ai81Dv/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--secondary-menu.ht_V1P-NQarnLcqniuJFG-ai81Dv/lbn-Gt0hcgPKlBgzlrgEk6co8WCbrPk9miXMU6wmrv4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--social.html.twig_Kg7Xl6iXLnwIHe5h5NvGstMfb/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region--social.html.twig_Kg7Xl6iXLnwIHe5h5NvGstMfb/YuoVHpFM-cYk9i42EtBiKZ_oYZgx8-VH_mAVNNAD88I.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region.html.twig_wr37sNNfHWbj39vyNAr-Ev83Q/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_region.html.twig_wr37sNNfHWbj39vyNAr-Ev83Q/mX6EkT5L1M7FWwqp1yUGFP62EoDA-8fO2IPKguNIpHo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_request.html.twig_CMpyRlTKE_rFCu1u80WQHBV1y/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_request.html.twig_CMpyRlTKE_rFCu1u80WQHBV1y/qWiXJwt1YIV_e7VYYx5dmkQtQCi2H7FFU2QqqOuavoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_rss.svg_9xUwxHZv82jRl40CRxDVO1q4l/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_rss.svg_9xUwxHZv82jRl40CRxDVO1q4l/eu-0SyoHANb-1KwkXN5F6mumKnUdIotLiCbOd2fxr2M.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_search.svg__JAOqR_dallcuCkGi_-ZFzkqz/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_search.svg__JAOqR_dallcuCkGi_-ZFzkqz/A_5WimBe3OwerWeWNMqsf7WegtgoWzooFQTpKMssmRk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-messages.html.twig_DF0NVvAHm-imYRn9Vw3vImO2s/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-messages.html.twig_DF0NVvAHm-imYRn9Vw3vImO2s/GvnS_hyK5T8cZderORtWekyToV8X8gjKXofhfyU-KW4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-counter.htm_sOBDo-XE3YP65iCuEL2N0AUzW/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-counter.htm_sOBDo-XE3YP65iCuEL2N0AUzW/s7CdbVWhwp2QFkzHYc4n9W3g0Yy0-SEtyvWGurF1zlc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-general-inf_NsEqB_tjHQtEhU3gNClp70qe1/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-general-inf_NsEqB_tjHQtEhU3gNClp70qe1/MysvLnJJ3uoaPzyfjMOdHDQoM_T89gtswGt8DnvT1rA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-grouped.htm_7_IMtyRW7rAM0jsYkDKyWXIzP/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-grouped.htm_7_IMtyRW7rAM0jsYkDKyWXIzP/MkDsHiiYgQ_a7TVMEjoPLPfEXLm78qGmyDfH2QwNgto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-page.html.t_gf7ImO6vZGz_4dWzE8w9PSfSJ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_status-report-page.html.t_gf7ImO6vZGz_4dWzE8w9PSfSJ/PUvxu4fujiI0vS45bsLeazIFzQ5O8GB3igzlYcVBpEY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_system-config-form.html.t_rGEjYu63Ym-9sUq7a4EIvb1Iy/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_system-config-form.html.t_rGEjYu63Ym-9sUq7a4EIvb1Iy/FMmwNnNxFTmhYNeEgp3Ila1Cau0hxbYb279o_U60Euk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_textarea.html.twig_Qx5LDMkZs1qv30nO753iyIGYJ/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_textarea.html.twig_Qx5LDMkZs1qv30nO753iyIGYJ/6XjUiuf50LmbWpXTVIBXxspGOJV7lcgG_jLExNDdTqQ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_time.html.twig_l2HOqLxVIpYSU_nQi3j6lJX03/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_time.html.twig_l2HOqLxVIpYSU_nQi3j6lJX03/cSs5n4Jq9Ajhe_giOW4QqVmb8atUhvuXmu7w97-uuKg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_time.svg_DFXayjtTDIci2hdc4hPcoqyWu/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_time.svg_DFXayjtTDIci2hdc4hPcoqyWu/9UDHfeIUDspWPkz3k8iyl3JbarwW_I1Gob9b2xsGuwM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.css.twig_e9XD9nkHXCvQ6kWXONOGJgXMe/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.css.twig_e9XD9nkHXCvQ6kWXONOGJgXMe/0ENPz1G9AQaOuu8wtUa3Cmp4Z1IfIIucFKWkyi-VvpM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_3ziOPwOP7wtzBQQZw9pZ6tnmv/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_3ziOPwOP7wtzBQQZw9pZ6tnmv/bhkA6svd7U993K581LC4g1X_7UF23MPPInI0La877H0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_KHhf8_UoW9Klp_yfl4atmsLKn/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_KHhf8_UoW9Klp_yfl4atmsLKn/TtCL8kDF7RpCEX4Bsaws78xnbfLFLBPSJ3rZEVI9sDg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_oddUvUW6O2UxkwpSSYyRuUNXV/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar.html.twig_oddUvUW6O2UxkwpSSYyRuUNXV/NFXdQFkNLLgCi_lyB0V_eKfisN3YXCdOCKuFQtYCI_U.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar_item.html.twig_tZgtvwu_OeKpMj5rGrz-sAgEV/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar_item.html.twig_tZgtvwu_OeKpMj5rGrz-sAgEV/vEDVJijjQAdLUzDNmW2vLpQoM3m_VPjfHMo-klYXX-A.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar_js.html.twig_88quWxv5QsO6P8f9ns4-MbhNj/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_toolbar_js.html.twig_88quWxv5QsO6P8f9ns4-MbhNj/gF4ORvUdNKm0u5GDE6fOKEUwBozLbpD13hcqkusIIp4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_user.html.twig_81i7QrjNIfVea5hT-zwFoUkP0/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_user.html.twig_81i7QrjNIfVea5hT-zwFoUkP0/axFJwT9xYgcBlWNXH4CGBZ_yvOHf2AKNoGLosUBxoTQ.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_user.svg_3emthp9PQf70jCs9m0Oh6nSVn/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_user.svg_3emthp9PQf70jCs9m0Oh6nSVn/2pHqxy77OdjrEeKvL8vYB5sxZgSxM-JrOcGSS7ZL2jo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_views-view--frontpage.htm_m0jJz5zh5szqR6MUmqY0sA3fB/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_views-view--frontpage.htm_m0jJz5zh5szqR6MUmqY0sA3fB/m3meMqyDgDzbGf0pYV88Y25F9mmtWAGCFDOqFw2JXhw.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_views.html.twig_slomIgYiXsNQ1i6CoGEzdlT5n/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/668500b1e96fe_views.html.twig_slomIgYiXsNQ1i6CoGEzdlT5n/PiB-_8oCYc-ZMAqh4gMa-Nx5Gx_rNzeSt93NOeq9_iY.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/02/cd/e3cd02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/02/d5/63d502" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0c/19/86190c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0c/94/83940c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0c/bf/17bf0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0c/e1/99e10c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0d/ae/b0ae0d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0d/d0/28d00d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0e/43/80430e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0e/64/2f640e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/10/cb/6dcb10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/11/e0/d4e011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/13/e3/0ae313" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/16/bb/7ebb16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/17/88/388817" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/19/21/2b2119" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/22/4f/934f22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/2c/ee/83ee2c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/2e/f6/60f62e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/32/7e/457e32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/32/9c/029c32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/34/1e/851e34" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/37/fa/16fa37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/38/30/c83038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/3b/61/0a613b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/3d/ab/05ab3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/3e/27/e4273e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/43/1f/ae1f43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/44/0b/2b0b44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/4b/67/3d674b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/4b/b7/6cb74b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/53/2f/d22f53" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/54/54/a45454" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/5b/52/f3525b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/60/0f/ce0f60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/67/19/6f1967" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/6d/8b/4a8b6d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/6e/18/0b186e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/70/63/b56370" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/71/70/677071" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/72/18/d41872" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/76/e0/10e076" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/79/10/de1079" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/7d/5e/f85e7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/85/c3/0ec385" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/88/60/576088" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/89/da/afda89" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/8e/e0/77e08e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/92/c0/94c092" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/93/06/510693" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/9a/43/a1439a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/a0/3c/163ca0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/a2/d2/52d2a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/a5/ae/59aea5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/aa/54/1654aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/b0/64/3064b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/b2/cf/bbcfb2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/b5/1f/981fb5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/b6/36/9536b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c2/34/b334c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c2/ed/0cedc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c4/35/c335c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c5/1b/b11bc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c6/95/d595c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/cb/86/a686cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/cf/bd/a7bdcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/cf/c0/f8c0cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d1/e7/e0e7d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d5/14/c614d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d8/98/6e98d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/dc/74/5474dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/de/4f/144fde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/e5/c6/fac6e5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/e7/0c/e60ce7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/ef/83/1683ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f0/68/d568f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f8/1e/a21ef8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f8/68/2b68f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f9/1e/a91ef9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/fa/d0/8fd0fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/fc/b4/88b4fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/fe/5c/f75cfe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/announcements_feed.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/announcements_feed.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/automated_cron.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/automated_cron.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_breadcrumbs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_breadcrumbs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_content.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_help.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_help.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_help_search.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_help_search.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_local_actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_local_actions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_messages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_messages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_page_title.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_page_title.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_primary_local_tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_primary_local_tasks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_secondary_local_tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.claro_secondary_local_tasks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_account_menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_account_menu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_breadcrumbs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_breadcrumbs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_content.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_help.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_help.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_main_menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_main_menu.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_messages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_messages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_page_title.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_page_title.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_powered.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_powered.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_primary_admin_actions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_primary_admin_actions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_primary_local_tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_primary_local_tasks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_search_form_narrow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_search_form_narrow.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_search_form_wide.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_search_form_wide.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_secondary_local_tasks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_secondary_local_tasks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_site_branding.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_site_branding.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_syndicate.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block.block.olivero_syndicate.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block_content.type.basic.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/block_content.type.basic.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/claro.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/claro.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/comment.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/comment.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/comment.type.comment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/comment.type.comment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.form.feedback.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.form.feedback.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.form.personal.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.form.personal.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/contact.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.base_field_override.node.page.promote.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.base_field_override.node.page.promote.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.fallback.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.fallback.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_date.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_date.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_datetime.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_datetime.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_month.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_month.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_time.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_time.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_week.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_week.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_year.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_year.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_yearless_date.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.html_yearless_date.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.long.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.long.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.medium.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.medium.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.olivero_medium.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.olivero_medium.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.short.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.date_format.short.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.block_content.basic.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.block_content.basic.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.comment.comment.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.comment.comment.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.node.article.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.node.article.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.node.page.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.node.page.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.user.user.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_display.user.user.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_mode.user.register.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_form_mode.user.register.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.block_content.basic.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.block_content.basic.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.comment.comment.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.comment.comment.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.rss.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.rss.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.teaser.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.article.teaser.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.page.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.page.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.page.teaser.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.node.page.teaser.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.user.user.compact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.user.user.compact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.user.user.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.user.user.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.block_content.full.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.block_content.full.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.comment.full.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.comment.full.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.full.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.full.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.rss.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.rss.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.search_index.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.search_index.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.search_result.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.search_result.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.teaser.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.node.teaser.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.taxonomy_term.full.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.taxonomy_term.full.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.user.compact.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.user.compact.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.user.full.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.user.full.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.extension.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.extension.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.menu.static_menu_link_overrides.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.menu.static_menu_link_overrides.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/dblog.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/dblog.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/devel.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/devel.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/devel.toolbar.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/devel.toolbar.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/editor.editor.basic_html.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/editor.editor.basic_html.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/editor.editor.full_html.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/editor.editor.full_html.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.block_content.basic.body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.block_content.basic.body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.comment.comment.comment_body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.comment.comment.comment_body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.comment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.comment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.field_image.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.field_image.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.field_tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.article.field_tags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.page.body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.node.page.body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.user.user.user_picture.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.field.user.user.user_picture.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.block_content.body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.block_content.body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.comment.comment_body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.comment.comment_body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.body.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.body.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.comment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.comment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.field_image.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.field_image.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.field_tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.node.field_tags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.user.user_picture.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field.storage.user.user_picture.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field_ui.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/field_ui.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/file.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/file.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.basic_html.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.basic_html.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.full_html.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.full_html.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.plain_text.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.plain_text.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.restricted_html.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.format.restricted_html.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/filter.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.large.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.large.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.medium.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.medium.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.thumbnail.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.thumbnail.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.wide.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/image.style.wide.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/menu_ui.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/menu_ui.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.type.article.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.type.article.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.type.page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/node.type.page.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/olivero.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/olivero.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.help_search.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.help_search.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.node_search.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.node_search.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.user_search.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.page.user_search.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/search.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/shortcut.set.default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/shortcut.set.default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_delete_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_delete_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_publish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_publish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_save_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_save_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_unpublish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.comment_unpublish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_delete_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_delete_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_make_sticky_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_make_sticky_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_make_unsticky_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_make_unsticky_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_promote_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_promote_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_publish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_publish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_save_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_save_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_unpromote_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_unpromote_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_unpublish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.node_unpublish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.taxonomy_term_publish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.taxonomy_term_publish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.taxonomy_term_unpublish_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.taxonomy_term_unpublish_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_add_role_action.administrator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_add_role_action.administrator.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_add_role_action.content_editor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_add_role_action.content_editor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_block_user_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_block_user_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_cancel_user_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_cancel_user_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_remove_role_action.administrator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_remove_role_action.administrator.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_remove_role_action.content_editor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_remove_role_action.content_editor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_unblock_user_action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.action.user_unblock_user_action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.advisories.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.advisories.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.cron.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.cron.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.date.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.date.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.diff.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.diff.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.feature_flags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.feature_flags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.file.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.file.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.image.gd.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.image.gd.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.image.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.image.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.logging.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.logging.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.mail.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.mail.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.maintenance.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.maintenance.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.account.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.account.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.admin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.admin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.devel.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.devel.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.footer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.footer.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.tools.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.menu.tools.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.performance.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.performance.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.rss.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.rss.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.site.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.site.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.theme.global.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.theme.global.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.theme.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/system.theme.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/taxonomy.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/taxonomy.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/taxonomy.vocabulary.tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/taxonomy.vocabulary.tags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/text.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/text.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/update.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/update.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.flood.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.flood.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.mail.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.mail.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.administrator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.administrator.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.anonymous.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.anonymous.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.authenticated.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.authenticated.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.content_editor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.content_editor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.archive.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.archive.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.block_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.block_content.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.comment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.comment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.comments_recent.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.comments_recent.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.content.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.content_recent.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.content_recent.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.files.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.files.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.frontpage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.frontpage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.glossary.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.glossary.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.taxonomy_term.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.taxonomy_term.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.user_admin_people.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.user_admin_people.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.watchdog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.watchdog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.who_s_new.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.who_s_new.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.who_s_online.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.who_s_online.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/webprofiler.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/webprofiler.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_6Bw2PWlrdOSOGZJWyV2s5gf07hE73MZ6cqFiOirwQjY.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_6Bw2PWlrdOSOGZJWyV2s5gf07hE73MZ6cqFiOirwQjY.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_HDhzUSl-Y4fdSO48qH6wt7sp8vO-BSkG8qraeAAsGXU.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_HDhzUSl-Y4fdSO48qH6wt7sp8vO-BSkG8qraeAAsGXU.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_V66We0os54mQ_iAF-e-3-c8eFl9l6P96cOsM-8TKyqQ.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_V66We0os54mQ_iAF-e-3-c8eFl9l6P96cOsM-8TKyqQ.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_p8eydL9hOAxw_CRScb9hHWo37WQLNel_yE2Vh1yGRL0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_p8eydL9hOAxw_CRScb9hHWo37WQLNel_yE2Vh1yGRL0.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_w49i1smcxSQ7dOwgxvCe-GrBVGKspgx7UKx4dKiopaA.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/css/css_w49i1smcxSQ7dOwgxvCe-GrBVGKspgx7UKx4dKiopaA.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_17SbEXdodkFPXwt87keNPZr1CsEW-Su3F7Hn4OHpf0g.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_17SbEXdodkFPXwt87keNPZr1CsEW-Su3F7Hn4OHpf0g.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_GtfDLXlBZ43kKuXBD1rLQpvcFPyKNjb8mIj97dz4M2o.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_GtfDLXlBZ43kKuXBD1rLQpvcFPyKNjb8mIj97dz4M2o.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_R76PEkVx_RKrvK0_5ZdcfFtxXDvpidV6NQlUyTtik9Q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_R76PEkVx_RKrvK0_5ZdcfFtxXDvpidV6NQlUyTtik9Q.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_cQESJGrspi4pYV7-jQifcP7_ZbfDWQtQqgMWv2N9l_A.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/js/js_cQESJGrspi4pYV7-jQifcP7_ZbfDWQtQqgMWv2N9l_A.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_002--database.svg_Uq5hjzDqf6zjrpHo-9tGO33hr/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_002--database.svg_Uq5hjzDqf6zjrpHo-9tGO33hr/q8f6nVUos6VIq-UarAbrWNhNrvWdMQaGfz3R17sPAbs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_006--blocks.svg_H0NeVEPG7lpruTvoh0I0ByTh4/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_006--blocks.svg_H0NeVEPG7lpruTvoh0I0ByTh4/dbTXvhqVODl7cYH8j3aR8CX6xeITpbThDpaZjVVgFC4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_007--views.svg_x1H55ZwHS_pCmS3hMeNpbMwaU/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_007--views.svg_x1H55ZwHS_pCmS3hMeNpbMwaU/RHNOJl2ctzYbxIx0WjXIV8mWTFCc2zfzfeFa8yqqKu0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0___string_template__266338_YhhAnju1PiHOb6XjLZOs8VbPT/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0___string_template__266338_YhhAnju1PiHOb6XjLZOs8VbPT/xmTjtxzaviL3G9OZ-wbaxDEkCWpD6d9d1YNmkv5XxvE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-block-content.html._C_zrbAkx1NJEOUGr0SpYMBFb7/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-block-content.html._C_zrbAkx1NJEOUGr0SpYMBFb7/XSx6WjG7nns04aqxePg1PzX6S9vwNsrCIIbZiu8Otts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-block.html.twig_hg3EgdgYV3WwAnuv7CK1nRaue/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-block.html.twig_hg3EgdgYV3WwAnuv7CK1nRaue/8ffIJh0-N5LqdOz-Itd-ayGjxLICRkKEAe1UIjLAq5Q.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-page.html.twig_E02hRJL1UTaQeB088oxG2BxQA/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_admin-page.html.twig_E02hRJL1UTaQeB088oxG2BxQA/G5WHzitEjojXi83YmAwmsX1_DfRI6S8eWQgfdITtxhE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_ajax.html.twig_4fujuqKYNIDYAI0vIbeXBUW5I/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_ajax.html.twig_4fujuqKYNIDYAI0vIbeXBUW5I/f6O0r0TwwMC7xGQgcGWVamw0URx4DwHR-9oT1_tM1qQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_ajax.svg_wxBlvZOcbI8gLT_HwBdhJBX-T/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_ajax.svg_wxBlvZOcbI8gLT_HwBdhJBX-T/W7V-kyqpxnjQ9PEMXITjNI-lAaz8QoBktLqQY62tcls.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_base_js.html.twig_0Y20HOqQIleozIMpmI6lkbAhT/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_base_js.html.twig_0Y20HOqQIleozIMpmI6lkbAhT/sqOndS-QB3FJcIhq2_yh553eMvUW3Q_JZyHbIw9EJns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_big-pipe-interface-previe_On5Ca5Y2U6DMMlr2TPENzkLYJ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_big-pipe-interface-previe_On5Ca5Y2U6DMMlr2TPENzkLYJ/dCAm6zkGOHrz9-9evShJmTvFRxV_2EfPkzcrseljIbU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--page-title-block.h_qweRBKfjvafXthENKXv9tt19o/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--page-title-block.h_qweRBKfjvafXthENKXv9tt19o/EUL6VwojO2PRtMyJKa6vSaZCyw-zFq2L4ukJ74e9444.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--primary-menu--plug_JSEHDGxlkpTB9KsJdGJiZYprd/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--primary-menu--plug_JSEHDGxlkpTB9KsJdGJiZYprd/mKu8jCT-nsZWLQdiGTEctq5oId2BcyA3ve6ULzk5VV4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--secondary-menu--pl_EzKCctj_8nLtZhDtzsNvTOm-x/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--secondary-menu--pl_EzKCctj_8nLtZhDtzsNvTOm-x/qskXJZTG1BeD_tppty91yVvXa7Ty169IxFvsfuYfJLo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--secondary-menu.htm_sisgcc5d5hByXTGsmGk9RDQez/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--secondary-menu.htm_sisgcc5d5hByXTGsmGk9RDQez/B8iLqu7tk2ID2lPtctD_kApYwQgGJVJk_amsYrfTiW4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-branding-bl_tjuO9JrhyVNWRCRsTvRscuE9E/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-branding-bl_tjuO9JrhyVNWRCRsTvRscuE9E/sFI8ZorrQatCdv2zSp6aHxadm98EK1C1-HTIhi45_4Q.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-menu-block._AfzvyU2owxYVXuc0OxNLitffl/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-menu-block._AfzvyU2owxYVXuc0OxNLitffl/ym_toeCbp4Q9zIG3_rsu3R9w013RZbdUfoPjiEhP9nY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-messages-bl_V_xFCj1CuUFYxVdwTpatFIeZ6/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-messages-bl_V_xFCj1CuUFYxVdwTpatFIeZ6/ZjycITOa5dVQajCMdTwmq8d-HyQkwsQctLruk---ZwE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-powered-by-_pgSHczp_vRjW0w5RvuMbSetjr/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block--system-powered-by-_pgSHczp_vRjW0w5RvuMbSetjr/R3eFni6CfHMKEPFIk2Z-ZI0tvzjC2QK0vNBNBlPe-oU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block.html.twig_oWyssOqIxmJuzbxVUn89R5lyZ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block.html.twig_oWyssOqIxmJuzbxVUn89R5lyZ/3-KbYV9l6knwIY-bQ0zDUVpwDx5xWs4HHjWq4oC0Eo0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block.html.twig_yNv7e0tZivrfomW3CAcNUfRrV/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_block.html.twig_yNv7e0tZivrfomW3CAcNUfRrV/EPh3FgaUKNAkpaxoS6DSJKothyPCAykYAkCB6kT6nog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_blocks.html.twig_q8Csirr45lL8XqbCSUBmyKA2K/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_blocks.html.twig_q8Csirr45lL8XqbCSUBmyKA2K/R6nLvzSv9jQRmlO1M5uKHDTiY3b4VI1Iim_DJGavKic.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_breadcrumb.html.twig_C2FMFraAhSsEFICahCQOO4mqE/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_breadcrumb.html.twig_C2FMFraAhSsEFICahCQOO4mqE/tcGiIPqx2byHzcrDVXX3CPzDYJIdPOuY_lYQLzxZeZc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_cancel.html.twig_f2z6JqRsWHbXmWXi2znk0iARs/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_cancel.html.twig_f2z6JqRsWHbXmWXi2znk0iARs/4RDqClxN7PTdV3pLHnmmRLfA9DWnwnIvp0Ts2XON3nE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_close.svg_k7_W_tem6pN2lEL4BL70FVTNu/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_close.svg_k7_W_tem6pN2lEL4BL70FVTNu/IZnAX9wKTGvXlsYQ5f318RVLXEvE7Uw-WwSOp7XPKOE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_config.svg_gDoFm-Nwblg5J17ehDB28bHhW/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_config.svg_gDoFm-Nwblg5J17ehDB28bHhW/Ol96nvu1k5AiJyOrU5qxbjfHBUWsx3PgY7_Tb0ZPxf0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_container.html.twig_o2-p1kytywrljQl0YirEAXy2p/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_container.html.twig_o2-p1kytywrljQl0YirEAXy2p/TMpjGJYV2We1261B_LDZiuIgLdJ5uTcc-s-D4h5bbJE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_database.html.twig_SH-a9VU1Mu0rrq-8hCKB82RS1/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_database.html.twig_SH-a9VU1Mu0rrq-8hCKB82RS1/_jn4m96ZaYlW-WHeE4SWDfXn-1far2-agWmYmMhFmWo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_details.html.twig_IaitGHRzqE4WJ29yDZeTlDira/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_details.html.twig_IaitGHRzqE4WJ29yDZeTlDira/If5L0o3_7JeUXiqtH6I2LEQIgBOBCDOWZOMGE1zF9KY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_devel.html.twig_3jMZr-2eEtdKSrtAeysmErD6w/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_devel.html.twig_3jMZr-2eEtdKSrtAeysmErD6w/iPiCrIT9kJ7N_bbC1oMZvr7pdCqFm9sYUFiQbEpldyY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal-10.svg_AFo-5ZxUTzCLmbKg3CKZPU5yr/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal-10.svg_AFo-5ZxUTzCLmbKg3CKZPU5yr/8fIx4xgqX89tYW5g5ncH80izBNx0X5DXirMI5MMLqu4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal.html.twig_JEHpmkJKdzk-8NbTIvKMbd08C/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal.html.twig_JEHpmkJKdzk-8NbTIvKMbd08C/WKMzKrrPnmbeakyoe284V_K9qfo_W3qeGA36voUaJIM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal.svg_Wz44jzTJa5Kb9yVKec572NdK6/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_drupal.svg_Wz44jzTJa5Kb9yVKec572NdK6/asSjfrkUgUls4b6dUiTtAK4O3vxCu8d60P2JvAc4J1M.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_feed-icon.html.twig_QmyQ8_EkUddEMsGZX_Wg6GPYj/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_feed-icon.html.twig_QmyQ8_EkUddEMsGZX_Wg6GPYj/TJ4gmNlZYD_4VlTMJ9HSdriBZHc9D0oEbNYbAqi_5w0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form--search-block-form.h_wCFXR_yNzFa0fARr-MOVs_SJ-/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form--search-block-form.h_wCFXR_yNzFa0fARr-MOVs_SJ-/ogMfHU4olweqLl7qjKOtuzwYRGPuFU92xhMexaTvuuk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element-label.html.t_HRP6vx7DMzEoU3oB6LhrKmHDB/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element-label.html.t_HRP6vx7DMzEoU3oB6LhrKmHDB/jadWjCwMUIEaVNvO8l7CTkEhRGssltngOfIaqHMFvb8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element-label.html.t_WiaWc2CV83MjjzLmLpcb_Joet/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element-label.html.t_WiaWc2CV83MjjzLmLpcb_Joet/D7aa0_SOQa8q41vlmjD3oN0UsA0YQt48dW4GT6Gz_7A.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element.html.twig_TR0OqOrba7dXEN9vwcgqyfzi5/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element.html.twig_TR0OqOrba7dXEN9vwcgqyfzi5/qY-pqEMOw9reWPhFX024pNihjKM3CzGU20lEz80kivY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element.html.twig_vh4L_VoMQ_3F6vu-41CgIA1B_/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form-element.html.twig_vh4L_VoMQ_3F6vu-41CgIA1B_/Dm75Vss24oXJXDC4no-BtoR4d1QCIYHyT5G64Nh65rc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form.html.twig_vf0ChZTUWRtxCM7WqZhrZwjCk/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form.html.twig_vf0ChZTUWRtxCM7WqZhrZwjCk/2z6umZwViOzhPt0Xf10qZtvvtkRVXDhCK8rV8JeWFWg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form.svg_QMyYMOhoPzDEst3BhOB-qZgJw/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_form.svg_QMyYMOhoPzDEst3BhOB-qZgJw/6qfi_oRTHpQv7M53npxhT_aaT-NIN_lPZ0eh-vG9Fws.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_forms.html.twig_b7UFjVMRCZdYecIFlKGGVwMuv/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_forms.html.twig_b7UFjVMRCZdYecIFlKGGVwMuv/F1SsQlf8kfTWNCk6It9fpc4ERdg6xdOm6kJPyTklMc4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_get-started.html.twig_4H1nUHhvwXdzyuo3N8U-0-I2f/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_get-started.html.twig_4H1nUHhvwXdzyuo3N8U-0-I2f/f7qGREkR2qgNoRF1hQ4P9DBacKLckKxCtuXe7w52f_Y.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_html.html.twig_CdCnTM4oTvBkSNPM7A1XFQLK1/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_html.html.twig_CdCnTM4oTvBkSNPM7A1XFQLK1/nuZznn8I37hzu3I9e8GuQavlicAfClSI3QmuXPFIPsc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_html.html.twig_bPAsSvaWE8tBhDwWJwqL__qSs/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_html.html.twig_bPAsSvaWE8tBhDwWJwqL__qSs/CB5blBhJOjmWM7JjK_l0oR14Ln26gcFOtsHUhQbTjZ8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input--submit--header-sea_RxrX8k_HGAN-Yak6eh8rDsNHf/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input--submit--header-sea_RxrX8k_HGAN-Yak6eh8rDsNHf/6PWneyY7hQ8N-XH-9mOk2xE2iI9do2H4kaKAwXpUyMQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input.html.twig_BeMSp9B9io3y-7t5JxTuJR6WF/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input.html.twig_BeMSp9B9io3y-7t5JxTuJR6WF/7vwIIX6cdcWXK18GuJ1pdSYMeCgUj9mIiYfkiQje5zM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input.html.twig_Dacqdmx3-uadJpd2wMW07ck5n/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_input.html.twig_Dacqdmx3-uadJpd2wMW07ck5n/iwvhJ_FiXlnPj_KLABvdvDNqvGqxmEk-RqR8xZkguLc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_item-list.html.twig_-VI_dGQaX_9Wl3cPwBOrBR_Ww/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_item-list.html.twig_-VI_dGQaX_9Wl3cPwBOrBR_Ww/w8BCScpp0ofrzUFXEkFAbU7F1DyplN4MK_ZA6qHRIqo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_links.html.twig_JAPr5hiuOJKcipQcP45WrAJZi/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_links.html.twig_JAPr5hiuOJKcipQcP45WrAJZi/SwNQtS3AEZYwXpHU5To8pUrUtbw_RadBnUy7DgKV1Jg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_links.html.twig_nfl9Yl2gGvfZpnl8PhnHQY0mU/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_links.html.twig_nfl9Yl2gGvfZpnl8PhnHQY0mU/drLDjjwJw6Ta2pORFYM7lVdB2PXf-XUPWoF4BAx2068.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_memory.html.twig_QxyfEDfSCM1OK2LHhce8pvTQr/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_memory.html.twig_QxyfEDfSCM1OK2LHhce8pvTQr/gwDAY2oE68Ur03JtIU0IJHPLajhTGUmoew_gLLpDtHc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_memory.svg_pHlDbVK8m7NGHHYiFy3TqQZEU/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_memory.svg_pHlDbVK8m7NGHHYiFy3TqQZEU/NDjH9RxjGGKOSLkcWg9mfZV8DeuN_Wu12QhsDUlP5mk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--primary-menu.html.t_MXpq_DU10FPzzG6q7j4FnzKku/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--primary-menu.html.t_MXpq_DU10FPzzG6q7j4FnzKku/bz8CAkAhwCTlmZuuxA0gpoFcDCwJLeUk4VOa7KngelY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--secondary-menu.html_s_sqOQgZaCferM2d60IHT3RKG/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--secondary-menu.html_s_sqOQgZaCferM2d60IHT3RKG/dbhj5-IuAgD17aTBVs19WEOnHVqBJiI_L_nRvP_dgkQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--toolbar.html.twig_VO73TI4MxB7VOxs7sTo38_UOE/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu--toolbar.html.twig_VO73TI4MxB7VOxs7sTo38_UOE/gymIeMpreIGHjJyQ8DqeXHVyZ2XrWkbgGrmYUU0vTmU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu.html.twig_BdDq2kUvtV9m5-j2DZMdg32QZ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu.html.twig_BdDq2kUvtV9m5-j2DZMdg32QZ/YqWFI6xstas25Rvqpp5IoKnCEXqIG_1bjQatAB5UpxA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu.html.twig_bdQR7N3SyAaEv50ZqurT_D0C9/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_menu.html.twig_bdQR7N3SyAaEv50ZqurT_D0C9/u5Thn7sC_uWAhi8eEbgBKuHlYtJ-EvqSaG9eVEu4Cio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_off-canvas-page-wrapper.h_AG9e0RuAy-wPS4BG8ItDxHoKl/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_off-canvas-page-wrapper.h_AG9e0RuAy-wPS4BG8ItDxHoKl/bHWtWRJk87VzjZ1CsQ5tsF3dRmp8ur79mqOqe-Cr-IQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_off-canvas-page-wrapper.h_McbbT4AF2J9HK5cHjooJiwAxZ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_off-canvas-page-wrapper.h_McbbT4AF2J9HK5cHjooJiwAxZ/XVhuN8TU001i6y3K1EkiY0cVW6YaBf52oDx4KVb4jRw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page-title.html.twig_Y_59tYGzkg9SbXO4VG087DCl7/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page-title.html.twig_Y_59tYGzkg9SbXO4VG087DCl7/OZr_ckNUnvV9jOggEmlMeJS0HFEBZHEJ_9CF9izFJJY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page-title.html.twig_oMBbHRMridnpIzuXkkmqiByc0/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page-title.html.twig_oMBbHRMridnpIzuXkkmqiByc0/nsOXY-GPbSoNUTKxHBHbk9KcDnKrVPcd1pdPoUEE5IU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page.html.twig_8f-mNZq3eAifPOlnYYqtiSGbo/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page.html.twig_8f-mNZq3eAifPOlnYYqtiSGbo/cY3t5wm9v7j-1RTVysAkPLf70YKraXjhYoh7bmHYSiw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page.html.twig_vOZ5Pi0-1BtjWuhVMNP0PjALS/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_page.html.twig_vOZ5Pi0-1BtjWuhVMNP0PjALS/OSKFeOlYFn-ra6FJxKVbGzhcZkimUaXkrboOdQDTov0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_pager.html.twig_hputQYHF3ExrzBB84Uv_7cFzR/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_pager.html.twig_hputQYHF3ExrzBB84Uv_7cFzR/mHH_dqiIFkUz9EobRGi20pJ-_yy3XjXEq_RMTyLWByY.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_preload.twig_WB6941hnCmy_U0bsMebUV6R-b/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_preload.twig_WB6941hnCmy_U0bsMebUV6R-b/tojLZF3_n4CD9CRK2PjImhn2mDG3vRLMGmk8U3X8RYI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--breadcrumb.html.t_9Mx7TJYIse2qqwJIh61lDTAOA/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--breadcrumb.html.t_9Mx7TJYIse2qqwJIh61lDTAOA/5YB57rOTDBdDi-7e33lfn_kIWS4bSA8jxQAAxUyPiLw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--breadcrumb.html.t_aK7ZwiwQdjRrzHivdj0HDG173/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--breadcrumb.html.t_aK7ZwiwQdjRrzHivdj0HDG173/lj1ZZ9sX3SPlQAd_dU6a59_F6ispwVjTfzVuc7GExug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--content-above.htm_iyq0aSxvXd4mYc6Oj3bMg1anc/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--content-above.htm_iyq0aSxvXd4mYc6Oj3bMg1anc/8xSy0g_tqQJT_jNwZ-2Ny7yt9fRO2FCDf0Hw7UsXCkU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--content.html.twig_iPi_KXOIxPcNq11jUpFLna5bZ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--content.html.twig_iPi_KXOIxPcNq11jUpFLna5bZ/Vyrx1zsKtHVVmdqkt19r4J9UOzJ4eoEIox9YJ24EAQc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--footer-bottom.htm_DEAjWrYyONCqYxWco8sAT4REv/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--footer-bottom.htm_DEAjWrYyONCqYxWco8sAT4REv/0HcM3VjVTHQYtV8Ywz0LHBWLp-_vAAo3btyyGoFL8No.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--header.html.twig_cNEhc0kcCw-CuKvruKhCbXHpB/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--header.html.twig_cNEhc0kcCw-CuKvruKhCbXHpB/gTk3zaP-0E8G4LggjzDm1Sn3UBLfUr4QLjkugLNcAvs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--highlighted.html._T_AAHhVnJJoZwhpPJsXBVRkBW/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--highlighted.html._T_AAHhVnJJoZwhpPJsXBVRkBW/VAfCxfDPI9wLon98BIxR4xTC2bvIjeZsIJ6CA9C32Nc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--primary-menu.html_WtHlzbGB5V30-Tc9tuU6RAwlm/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--primary-menu.html_WtHlzbGB5V30-Tc9tuU6RAwlm/NBnwu6mKQHbAVi3BnXlKAHZEYlWxE5MPlRwLq5OxbL4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--secondary-menu.ht_V1P-NQarnLcqniuJFG-ai81Dv/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--secondary-menu.ht_V1P-NQarnLcqniuJFG-ai81Dv/ri7RDGmbHTAKgTsddLWZ3VAWX5HncL3delvpNL_878s.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--social.html.twig_Kg7Xl6iXLnwIHe5h5NvGstMfb/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region--social.html.twig_Kg7Xl6iXLnwIHe5h5NvGstMfb/v9MBIvYUDlp1GWNRGdhA78eDnPqhg3zHOsEDAgOZe-E.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region.html.twig_wr37sNNfHWbj39vyNAr-Ev83Q/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_region.html.twig_wr37sNNfHWbj39vyNAr-Ev83Q/T6PBTi1lO9-MsvS0BQXEy2rsX8p0AnSE56leHLng-a8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_request.html.twig_CMpyRlTKE_rFCu1u80WQHBV1y/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_request.html.twig_CMpyRlTKE_rFCu1u80WQHBV1y/QwB0NJGJBi3Y5AH6gv0pCrawVnujZ-2KLsohfzuzpro.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_rss.svg_9xUwxHZv82jRl40CRxDVO1q4l/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_rss.svg_9xUwxHZv82jRl40CRxDVO1q4l/dAEJKt_juCnMSm5oaseSVgn4odcvmkMOcmgCH6Ze8lM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_search.svg__JAOqR_dallcuCkGi_-ZFzkqz/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_search.svg__JAOqR_dallcuCkGi_-ZFzkqz/z2KGtfcOs1jFguLu4JfObE9Ei2Juvc-5Z2RVT1XM_Q8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-messages.html.twig_DF0NVvAHm-imYRn9Vw3vImO2s/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-messages.html.twig_DF0NVvAHm-imYRn9Vw3vImO2s/DUbx2WvCtsYq5paJj-GimGNKx4ZmFSHmuVaZFXCkJLc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-counter.htm_sOBDo-XE3YP65iCuEL2N0AUzW/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-counter.htm_sOBDo-XE3YP65iCuEL2N0AUzW/s6PSTcX4MHYkkF5I7Njowclh9YR6hh5qHqgDTYMI2jI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-general-inf_NsEqB_tjHQtEhU3gNClp70qe1/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-general-inf_NsEqB_tjHQtEhU3gNClp70qe1/5iLOP_-hE9KIQQeLYdtvd37JFjLzpWnYo7VlxA5mBVU.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-grouped.htm_7_IMtyRW7rAM0jsYkDKyWXIzP/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-grouped.htm_7_IMtyRW7rAM0jsYkDKyWXIzP/lvGiwgJ7Zc_jD2PoVH2w-0y5KLgTt34Ec6Rh70BdYN4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-page.html.t_gf7ImO6vZGz_4dWzE8w9PSfSJ/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_status-report-page.html.t_gf7ImO6vZGz_4dWzE8w9PSfSJ/lCHaAfRFV8jT_vUVy5ewQHSL88HJivrROlWo8-7bM5s.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_system-config-form.html.t_rGEjYu63Ym-9sUq7a4EIvb1Iy/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_system-config-form.html.t_rGEjYu63Ym-9sUq7a4EIvb1Iy/oQ5eFzMBpJawSE0FgQFgh80eqdaCxanTfMltkr3PwTM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_time.html.twig_l2HOqLxVIpYSU_nQi3j6lJX03/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_time.html.twig_l2HOqLxVIpYSU_nQi3j6lJX03/hTz2ajrGjXj3FEZQD6Buuvfw5vW9kIBtYfkY-Pu1mXo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_time.svg_DFXayjtTDIci2hdc4hPcoqyWu/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_time.svg_DFXayjtTDIci2hdc4hPcoqyWu/ZQEInPCnmYr8lYY1UY5ca_XU8Jo4ZKkGFPoLbWFWngk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.css.twig_e9XD9nkHXCvQ6kWXONOGJgXMe/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.css.twig_e9XD9nkHXCvQ6kWXONOGJgXMe/c6cutP8dLgdE6N9A2jZPdT2K6uSugECJzTqa6O0nw2s.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_3ziOPwOP7wtzBQQZw9pZ6tnmv/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_3ziOPwOP7wtzBQQZw9pZ6tnmv/jlOpIfO0CXyAcl67JJj-v6vOc4RtnhAA06xCj8MnEUQ.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_KHhf8_UoW9Klp_yfl4atmsLKn/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_KHhf8_UoW9Klp_yfl4atmsLKn/1g-mfJmydr3kLGQtF6iTayYOq8Cqm3L5gI9P7H6iNX4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_oddUvUW6O2UxkwpSSYyRuUNXV/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar.html.twig_oddUvUW6O2UxkwpSSYyRuUNXV/fcHJfNdRnk7a3MnS4Hq7mOWInuseypCk7Ov1zXeoLa4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar_item.html.twig_tZgtvwu_OeKpMj5rGrz-sAgEV/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar_item.html.twig_tZgtvwu_OeKpMj5rGrz-sAgEV/BC11kDnqgkUx8pwOB4plltAtK1OVOmu7nQ4RYADrXmc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar_js.html.twig_88quWxv5QsO6P8f9ns4-MbhNj/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_toolbar_js.html.twig_88quWxv5QsO6P8f9ns4-MbhNj/ZtTSPskWaMuzNo9Hhs0SvCX8q1yB5pCHlrS7dMjTTjo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_user.html.twig_81i7QrjNIfVea5hT-zwFoUkP0/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_user.html.twig_81i7QrjNIfVea5hT-zwFoUkP0/ELFleJYyp8VrdYrOY4aQKYk8hqH8DMR64cHLUsHGtg4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_user.svg_3emthp9PQf70jCs9m0Oh6nSVn/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_user.svg_3emthp9PQf70jCs9m0Oh6nSVn/Tsr2CY2sw3Yqes9D-21opg7pzMJ9qiwfNBvRqsbjPl4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_views-view--frontpage.htm_m0jJz5zh5szqR6MUmqY0sA3fB/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_views-view--frontpage.htm_m0jJz5zh5szqR6MUmqY0sA3fB/0igXXJllDaJ6SPbU9qQYTucRGPrGPZkpSsvnz25bWZw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_views.html.twig_slomIgYiXsNQ1i6CoGEzdlT5n/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/php/twig/6684f72bbd4f0_views.html.twig_slomIgYiXsNQ1i6CoGEzdlT5n/FKx4iQPLTwZ8-ltsoGKZmV953YVn8MSKeqYMJxCHw9k.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/01/a8/48a801" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/03/89/2b8903" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/05/4b/544b05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/09/d9/92d909" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0b/e2/93e20b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/0f/7b/a67b0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/15/3e/183e15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/20/0c/8c0c20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/21/42/a34221" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/28/55/c05528" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/34/96/669634" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/39/24/532439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/3f/57/45573f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/41/c6/dcc641" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/44/dd/96dd44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/47/67/1d6747" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/49/0f/d80f49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/4d/90/0c904d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/4f/e9/dde94f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/4f/f0/0cf04f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/51/3f/0a3f51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/54/de/f2de54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/55/7a/047a55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/5a/79/8a795a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/5e/35/a1355e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/5e/f9/d6f95e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/60/a3/b5a360" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/65/e0/59e065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/69/e2/c3e269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/6a/88/20886a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/6d/00/82006d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/74/43/1e4374" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/75/13/f71375" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/78/4f/b84f78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/7c/5d/c55d7c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/7c/c9/3cc97c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/7d/9c/4a9c7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/7d/c3/bbc37d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/80/04/b10480" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/82/cf/01cf82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/84/e4/49e484" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/84/f5/04f584" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/89/ab/c6ab89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/8c/19/8e198c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/8c/a3/58a38c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/9a/cd/20cd9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/9e/40/9b409e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/9f/98/a7989f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/bd/db/cfdbbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c2/4c/cc4cc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c4/d3/add3c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/c6/72/6872c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d0/2a/212ad0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d0/6a/3c6ad0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d5/57/0657d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/d9/64/7864d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/db/6b/df6bdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/dd/40/ad40dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/df/e1/aae1df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/e2/c7/2cc7e2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/e4/10/3210e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/e9/3a/fd3ae9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/ee/71/df71ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f2/bd/fabdf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f6/d1/16d1f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/f8/e9/7ee9f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/ff/67/af67ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/index.csv.offset" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/files/profiler/index.csv.offset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/sites/default/settings.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/k1dxd_drupal_practice/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$/k1dxd_drupal_practice</drupalPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/mck89/peast" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/composer" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/drush/drush" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/chi-teck/drupal-code-generator" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/phpowermove/docblock" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/league/container" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/league/config" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/phootwork/lang" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/phootwork/collection" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/webflo/drupal-finder" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/self-update" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/filter-via-dot-access-data" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/log" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/output-formatters" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/grasmash/expander" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/robo" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/grasmash/yaml-cli" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/annotated-command" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/site-alias" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/site-process" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/consolidation/config" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/k1dxd_drupal_practice/vendor/doctrine/lexer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2ij5Rf8BCrvydsCKePONLU9Ttyz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/k1dxd_drupal_practice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="" />
+      <created>1719991139690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719991139690</updated>
+      <workItem from="1719991141885" duration="778000" />
+      <workItem from="1719991932769" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="813" y="438" width="443" height="237" key="#Drupal" timestamp="1719991288799">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="813" y="438" width="443" height="237" key="#Drupal/72.27.1848.1053@72.27.1848.1053" timestamp="1719991288799" />
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1719991364259">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1719991364259" />
+    <state x="779" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1719991894955">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="779" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1719991894955" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1719991908404">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1719991908404" />
+  </component>
+  <component name="WordPressConfiguration">
+    <wordpressPath />
+  </component>
+</project>

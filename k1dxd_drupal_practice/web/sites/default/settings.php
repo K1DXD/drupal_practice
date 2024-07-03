@@ -902,3 +902,5 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
+
+$config['system.logging']['error_level'] = 'verbose';

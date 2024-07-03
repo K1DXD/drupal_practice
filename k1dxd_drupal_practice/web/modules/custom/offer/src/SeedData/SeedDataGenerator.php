@@ -1,6 +1,7 @@
 <?php
 
 namespace Drupal\offer\SeedData;
+
 use Drupal\user\Entity\User;
 
 /**

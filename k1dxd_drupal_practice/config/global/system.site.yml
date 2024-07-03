@@ -1,10 +1,10 @@
 _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
-uuid: c57ddc52-b198-4009-a377-cb6317ac9159
+uuid: 8c448b2d-e336-412e-a783-049089561381
 name: k1dxd_sites
 mail: k1dxd1998@gmail.com
-slogan: 'K1dxd Offer platform'
+slogan: ''
 page:
   403: ''
   404: ''

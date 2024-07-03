@@ -256,7 +256,7 @@ $databases = [];
  * directory in the public files path. The setting below allows you to set
  * its location.
  */
-$settings['config_sync_directory'] = '../config/global';
+# $settings['config_sync_directory'] = '/directory/outside/webroot';
 
 /**
  * Settings:
@@ -286,7 +286,7 @@ $settings['config_sync_directory'] = '../config/global';
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = 'dRf77IIp1phareb70vQ9qFHodTU1MfYnD8hv-rRvQ5FnVyOfC9SshvHIqy5x0Ybi5yypTKEAIQ';
+$settings['hash_salt'] = 'wPJJGp-ttR8pOfOPHT05BuQC2LJXjq-phN6sreFoqtVrlS0_1Bd90AtrNHTMlFixDQElox8diA';
 
 /**
  * Deployment identifier.
@@ -890,6 +890,9 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 # if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
+
+$settings['config_sync_directory'] = '../../config/global';
+$config['system.logging']['error_level'] = 'verbose';
 $databases['default']['default'] = array (
   'database' => 'k1dxd_drupal_practice',
   'username' => 'root',
@@ -902,5 +905,3 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
-
-$config['system.logging']['error_level'] = 'verbose';

@@ -4,3 +4,9 @@ offer.config:
   description: 'Global settings for the offer platform'
   parent: system.admin_config_system
   weight: 99
+
+offer.toolbar.my_offers:
+  title: 'My offers'
+  route_name: entity.offer.collection
+  parent: system.admin
+  weight: 99

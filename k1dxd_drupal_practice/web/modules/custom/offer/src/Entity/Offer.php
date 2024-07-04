@@ -36,10 +36,24 @@ use Drupal\Core\Entity\EntityStorageInterface;
  *     "revision_created" = "revision_timestamp",
  *     "revision_log_message" = "revision_log"
  *   },
+ *   handlers = {
+ *       "access" = "Drupal\offer\OfferAccessControlHandler",
+ *       "form" = {
+ *          "add" = "Drupal\offer\Form\OfferForm",
+ *          "edit" = "Drupal\offer\Form\OfferForm",
+ *          "delete" = "Drupal\offer\Form\OfferDeleteForm",
+ *       },
+ *   },
+ *   links = {
+ *      "canonical" = "/offers/{offer}",
+ *      "delete-form" = "/offers/{offer}/delete",
+ *      "edit-form" = "/offers/{offer}/edit",
+ *      "create" = "/offers/create",
+ *   },
  * )
  */
 class Offer extends EditorialContentEntityBase {
-  
+
   public static function baseFieldDefinitions(EntityTypeInterface $entity_type) {
     $fields = parent::baseFieldDefinitions($entity_type);
     // provides id and uuid fields
@@ -118,4 +132,20 @@ class Offer extends EditorialContentEntityBase {
 
     return $fields;
   }
+
+  public static function preCreate(EntityStorageInterface $storage, array &$values) {
+    parent::preCreate($storage, $values);
+    $values += [
+      'user_id' => \Drupal::currentUser()->id()
+    ];
+  }
+
+  public function getOwner() {
+    return $this->get('user_id')->entity;
+  }
+
+  public function getOwnerId() {
+    return $this->get('user_id')->target_id;
+  }
+
 }

@@ -21,9 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.routing.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Entity/Offer.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Entity/Offer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/OfferAccessControlHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/OfferAccessControlHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/OfferViewsData.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/OfferViewsData.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,13 @@
   </component>
   <component name="DrupalConfiguration" enabled="true" version="8">
     <drupalPath>$PROJECT_DIR$/k1dxd_drupal_practice</drupalPath>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -200,10 +206,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1719991894955" />
-    <state x="546" y="273" width="889" height="568" key="NewPhpClassDialog" timestamp="1720148116464">
+    <state x="546" y="273" width="1001" height="568" key="NewPhpClassDialog" timestamp="1720173201866">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="546" y="273" width="889" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1720148116464" />
+    <state x="546" y="273" width="1001" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1720173201866" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1719991908404">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>

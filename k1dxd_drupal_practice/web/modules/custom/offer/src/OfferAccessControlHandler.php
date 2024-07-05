@@ -17,6 +17,8 @@ class OfferAccessControlHandler extends EntityAccessControlHandler
 
   const PERMISSION_NAME = 'administer own offers';
 
+  const ALLOW_VIEW_STATE = ['published', 'expired'];
+
   /**
    * @param \Drupal\Core\Entity\EntityInterface $entity
    * @param string $operation
@@ -28,6 +30,15 @@ class OfferAccessControlHandler extends EntityAccessControlHandler
     $access = AccessResult::forbidden();
     switch ($operation) {
       case 'view':
+        if ($account->hasPermission(self::PERMISSION_NAME)) {
+          $access = AccessResult::allowedIf($account->id() == $entity->getOwnerId())
+            ->cachePerUser()->addCacheableDependency($entity);
+        } else {
+          $access = AccessResult::allowedIf(in_array($entity
+            ->get('moderation_state')
+            ->getString(), self::ALLOW_VIEW_STATE))->addCacheableDependency($entity);
+        }
+        break;
       case 'update':
       case 'edit':
       case 'delete':

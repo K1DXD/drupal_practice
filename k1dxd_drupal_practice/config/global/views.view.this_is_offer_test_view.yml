@@ -4,6 +4,8 @@ status: true
 dependencies:
   module:
     - offer
+_core:
+  default_config_hash: CxoF5hUZFkiTEZaBtpbHLVfXuSEHdrCL6AGfeDZOpec
 id: this_is_offer_test_view
 label: 'this is offer test view'
 module: views

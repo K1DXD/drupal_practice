@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.this_is_offer_test_view.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/config/install/views.view.this_is_offer_test_view.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/OfferViewsData.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.authenticated.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/user.role.authenticated.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.info.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.routing.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Entity/Offer.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Entity/Offer.php" afterDir="false" />
-    </list>
+    <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

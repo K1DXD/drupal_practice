@@ -199,6 +199,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'drupal/ckeditor' => array(
+            'pretty_version' => '1.0.2',
+            'version' => '1.0.2.0',
+            'reference' => '1.0.2',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../web/modules/contrib/ckeditor',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'drupal/core' => array(
             'pretty_version' => '10.3.1',
             'version' => '10.3.1.0',

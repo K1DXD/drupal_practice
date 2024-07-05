@@ -1,0 +1,27 @@
+uuid: 8c8e638e-f361-4dc8-ba01-c960f2a0eb3d
+langcode: en
+status: true
+dependencies:
+  module:
+    - offer
+    - options
+id: offer.field_offer_type
+field_name: field_offer_type
+entity_type: offer
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: with_minimum|with_minimum
+      label: 'Set minimum price'
+    -
+      value: no_minimum|no_minimum
+      label: 'No minimum price'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

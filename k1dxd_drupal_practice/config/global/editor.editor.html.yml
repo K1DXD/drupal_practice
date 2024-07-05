@@ -1,0 +1,41 @@
+uuid: 00bbcd5c-e847-4b7b-93b6-b0d084eaa0c4
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.html
+  module:
+    - ckeditor
+format: html
+editor: ckeditor
+settings:
+  toolbar:
+    rows:
+      -
+        -
+          name: Formatting
+          items:
+            - Bold
+            - Italic
+        -
+          name: Links
+          items:
+            - DrupalLink
+            - DrupalUnlink
+        -
+          name: Lists
+          items:
+            - BulletedList
+            - NumberedList
+        -
+          name: Media
+          items:
+            - Blockquote
+            - DrupalImage
+        -
+          name: Tools
+          items:
+            - Source
+  plugins: {  }
+image_upload:
+  status: false

@@ -1,4 +1,4 @@
-uuid: 2a7fd7c9-6ce7-4f3f-8bfe-eefdcbaf5c7f
+uuid: 0de93b4b-6504-45bf-92d6-a06864a8b957
 langcode: en
 status: true
 dependencies:
@@ -11,7 +11,7 @@ field_name: field_price
 entity_type: offer
 bundle: offer
 label: Price
-description: 'Your minimum price (in $)'
+description: 'our minimum price (in $)'
 required: false
 translatable: false
 default_value: {  }

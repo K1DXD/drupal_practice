@@ -5,9 +5,11 @@ dependencies:
   config:
     - filter.format.basic_html
     - filter.format.html
+    - workflows.workflow.offer_workflow
   module:
     - comment
     - contact
+    - content_moderation
     - file
     - filter
     - media
@@ -29,6 +31,9 @@ permissions:
   - 'post comments'
   - 'search content'
   - 'skip comment approval'
+  - 'use offer_workflow transition create_new_draft'
+  - 'use offer_workflow transition make_expired'
+  - 'use offer_workflow transition publish'
   - 'use text format basic_html'
   - 'use text format html'
   - 'view media'

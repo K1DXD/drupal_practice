@@ -1,4 +1,4 @@
-uuid: 8c8e638e-f361-4dc8-ba01-c960f2a0eb3d
+uuid: 15d5217a-2afe-40c1-843a-7ae712c1b791
 langcode: en
 status: true
 dependencies:
@@ -12,10 +12,10 @@ type: list_string
 settings:
   allowed_values:
     -
-      value: with_minimum|with_minimum
+      value: with_minimum_set_minimum_price|with_minimum
       label: 'Set minimum price'
     -
-      value: no_minimum|no_minimum
+      value: no_minimum_no_minimum_price|no_minimum
       label: 'No minimum price'
   allowed_values_function: ''
 module: options

@@ -1,14 +1,9 @@
-uuid: c26868fe-0c2b-4c3a-8409-ffaba330542e
+uuid: 7c8b823e-e013-423e-a235-dd74d4de7b49
 langcode: en
 status: true
 dependencies:
   config:
     - field.storage.offer.field_description
-    - filter.format.basic_html
-    - filter.format.full_html
-    - filter.format.html
-    - filter.format.plain_text
-    - filter.format.restricted_html
   module:
     - offer
     - text
@@ -23,10 +18,5 @@ translatable: false
 default_value: {  }
 default_value_callback: ''
 settings:
-  allowed_formats:
-    - basic_html
-    - restricted_html
-    - full_html
-    - plain_text
-    - html
+  allowed_formats: {  }
 field_type: text_long

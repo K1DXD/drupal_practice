@@ -8,8 +8,7 @@ use Drupal\views\Plugin\views\display\DisplayPluginBase;
 use Drupal\views\ViewExecutable;
 
 /**
- * A handler to provide a field that is completely custom by the
-administrator.
+ * A handler to provide a field that is completely custom by the administrator.
  *
  * @ingroup views_field_handlers
  *

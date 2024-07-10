@@ -867,7 +867,6 @@ abstract class DisplayPluginBase extends PluginBase implements DisplayPluginInte
         if ($this->view->getRequest()->request->get('form_id') && isset($this->view->temporary_options[$type][$id])) {
           $info = $this->view->temporary_options[$type][$id];
         }
-
         if ($info['id'] != $id) {
           $info['id'] = $id;
         }

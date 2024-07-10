@@ -28,6 +28,15 @@ class OfferViewsData extends EntityViewsData
         'id' => 'offer_dynamic_operation_links',
         ],
     ];
+    $data['offer']['offer_moderation_state_filter'] = [
+      'title' => t('Moderation state'),
+      'filter' => [
+        'title' => t('Moderation state'),
+        'help' => 'Filters on moderation state',
+        'field' => 'id',
+        'id' => 'offer_moderation_state_filter',
+      ]
+    ];
     return $data;
   }
 

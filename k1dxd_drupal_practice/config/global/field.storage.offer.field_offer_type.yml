@@ -12,11 +12,11 @@ type: list_string
 settings:
   allowed_values:
     -
-      value: with_minimum_set_minimum_price|with_minimum
-      label: 'Set minimum price'
+      value: with_minimum
+      label: 'With Minimum'
     -
-      value: no_minimum_no_minimum_price|no_minimum
-      label: 'No minimum price'
+      value: no_minimum
+      label: 'No Minimum'
   allowed_values_function: ''
 module: options
 locked: false

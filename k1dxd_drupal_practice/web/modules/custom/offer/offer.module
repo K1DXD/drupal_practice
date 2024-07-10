@@ -2,6 +2,7 @@
 
 use Drupal\Core\Render\Element;
 use Drupal\views\ViewExecutable;
+use Drupal\Core\Form\FormStateInterface;
 
 /**
  * Prepares variables for templates.
@@ -54,5 +55,19 @@ function offer_theme($existing, $type, $theme, $path) {
 function offer_views_pre_render(ViewExecutable $view) {
   if (isset($view) && ($view->storage->id() == 'offer_over_view')) {
     $view->element['#attached']['library'][] = 'offer/offer_over_view_page';
+  }
+}
+
+/**
+ * Implements hook_form_alter().
+ * @param array $form
+ * @param \Drupal\Core\Form\FormStateInterface $form_state
+ * @param $form_id\
+ */
+function offer_form_alter(array &$form, FormStateInterface $form_state, $form_id) {
+  $forms = ['offer_step1_form', 'offer_step2_form', 'offer_step3_form', 'offer_edit_form'];
+  if (in_array($form_id, $forms)) {
+    // Prevent revision log box access
+    $form['revision_log']['#access'] = FALSE;
   }
 }

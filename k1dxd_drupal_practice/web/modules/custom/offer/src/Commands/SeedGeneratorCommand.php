@@ -22,5 +22,7 @@ class SeedGeneratorCommand extends DrushCommands {
     $seed = new SeedDataGenerator();
     $count = $seed->Generate('user');
     Drush::output()->writeln($count . ' user(s) created');
+    $count = $seed->Generate('offer');
+    Drush::output()->writeln($count . ' offer(s) created');
   }
 }

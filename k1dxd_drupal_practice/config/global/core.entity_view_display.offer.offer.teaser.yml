@@ -1,8 +1,9 @@
-uuid: 7a965968-45dd-46d2-b5d4-5c22db46ab78
+uuid: 7053abae-e093-49ba-a5bc-4b557ee0c625
 langcode: en
 status: true
 dependencies:
   config:
+    - core.entity_view_mode.offer.teaser
     - field.field.offer.offer.field_description
     - field.field.offer.offer.field_image
     - field.field.offer.offer.field_offer_type
@@ -10,25 +11,11 @@ dependencies:
   module:
     - offer
     - options
-    - text
-    - user
-id: offer.offer.default
+id: offer.offer.teaser
 targetEntityType: offer
 bundle: offer
-mode: default
+mode: teaser
 content:
-  content_moderation_control:
-    settings: {  }
-    third_party_settings: {  }
-    weight: 4
-    region: content
-  field_description:
-    type: text_default
-    label: above
-    settings: {  }
-    third_party_settings: {  }
-    weight: 3
-    region: content
   field_image:
     type: entity_reference_entity_view
     label: above
@@ -36,14 +23,14 @@ content:
       view_mode: default
       link: false
     third_party_settings: {  }
-    weight: 2
+    weight: 1
     region: content
   field_offer_type:
     type: list_default
     label: above
     settings: {  }
     third_party_settings: {  }
-    weight: 5
+    weight: 2
     region: content
   field_price:
     type: number_decimal
@@ -54,7 +41,7 @@ content:
       scale: 2
       prefix_suffix: true
     third_party_settings: {  }
-    weight: 6
+    weight: 3
     region: content
   title:
     type: string
@@ -64,11 +51,7 @@ content:
     third_party_settings: {  }
     weight: 0
     region: content
-  user_id:
-    type: author
-    label: hidden
-    settings: {  }
-    third_party_settings: {  }
-    weight: 1
-    region: content
-hidden: {  }
+hidden:
+  content_moderation_control: true
+  field_description: true
+  user_id: true

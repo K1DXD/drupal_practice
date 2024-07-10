@@ -41,6 +41,10 @@ use Drupal\Core\Entity\EntityStorageInterface;
  *       "views_data" = "Drupal\offer\OfferViewsData",
  *       "form" = {
  *          "add" = "Drupal\offer\Form\OfferForm",
+ *          "default" = "Drupal\offer\Form\OfferForm",
+ *          "step1" = "Drupal\offer\Form\OfferAddFormStep1",
+ *          "step2" = "Drupal\offer\Form\OfferAddFormStep2",
+ *          "step3" = "Drupal\offer\Form\OfferAddFormStep3",
  *          "edit" = "Drupal\offer\Form\OfferForm",
  *          "delete" = "Drupal\offer\Form\OfferDeleteForm",
  *       },

@@ -1,0 +1,25 @@
+uuid: eae61e6f-8131-4b7e-88a6-bf1ba7555d74
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - gin
+id: gin_mainnavigation
+theme: gin
+region: breadcrumb
+weight: 0
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

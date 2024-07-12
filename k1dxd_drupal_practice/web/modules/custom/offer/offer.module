@@ -53,8 +53,8 @@ function offer_theme($existing, $type, $theme, $path) {
  * @param \Drupal\views\ViewExecutable $view
  */
 function offer_views_pre_render(ViewExecutable $view) {
-  if (isset($view) && ($view->storage->id() == 'offer_over_view')) {
-    $view->element['#attached']['library'][] = 'offer/offer_over_view_page';
+  if (isset($view) && ($view->storage->id() == 'offer')) {
+    $view->element['#attached']['library'][] = 'offer/offer_page';
   }
 }
 

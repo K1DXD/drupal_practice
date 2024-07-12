@@ -1,4 +1,4 @@
-offer_over_view_page:
+offer_overview_page:
   css:
     theme:
       css/overview.css: {}

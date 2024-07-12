@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7e1099-e5ea-4d78-85bc-2bef26c189f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.offer_overview.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer--full.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_display.offer.offer.full.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/core.entity_view_mode.offer.full.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/announcements_feed.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/announcements_feed.settings.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/automated_cron.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/automated_cron.settings.yml" afterDir="false" />
@@ -285,7 +286,7 @@
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.media.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.media.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.media_library.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.media_library.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.moderated_content.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.moderated_content.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.offer_over_view.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.offer_overview.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.offer_overview.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.redirect.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.redirect.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.redirect_404.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.redirect_404.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.taxonomy_term.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/views.view.taxonomy_term.yml" afterDir="false" />
@@ -297,19 +298,9 @@
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/webprofiler.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/webprofiler.settings.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/workflows.workflow.editorial.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/workflows.workflow.editorial.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/workflows.workflow.offer_workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/config/global/workflows.workflow.offer_workflow.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/config/schema/offer.schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/config/schema/offer.schema.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/css/overview.css" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/css/overview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.libraries.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.links.menu.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.module" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/offer.module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Controller/OfferPublishController.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Controller/OfferPublishController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep1.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep2.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep3.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Form/OfferAddFormStep3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/Menu/MyOffers.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/Menu/MyOffers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/views/field/OfferDynamicOperationLinks.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/views/field/OfferDynamicOperationLinks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/views/filters/ModerationStateFilter.php" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/src/Plugin/views/filters/ModerationStateFilter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer--teaser.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer--teaser.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer--full.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/k1dxd_drupal_practice/web/modules/custom/offer/templates/offer--full.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -18,7 +18,7 @@ mode: teaser
 content:
   field_image:
     type: entity_reference_entity_view
-    label: above
+    label: hidden
     settings:
       view_mode: default
       link: false
@@ -27,14 +27,14 @@ content:
     region: content
   field_offer_type:
     type: list_default
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     weight: 2
     region: content
   field_price:
     type: number_decimal
-    label: above
+    label: hidden
     settings:
       thousand_separator: ''
       decimal_separator: .
@@ -45,7 +45,7 @@ content:
     region: content
   title:
     type: string
-    label: above
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }

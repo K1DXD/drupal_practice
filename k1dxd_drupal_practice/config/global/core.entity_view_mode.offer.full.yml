@@ -1,11 +1,11 @@
-uuid: dc42708b-7bd0-43ef-afbd-da57983fe2d2
+uuid: 07f631b7-838b-46be-92bf-793e54a561a5
 langcode: en
 status: true
 dependencies:
   module:
     - offer
-id: offer.step_3
-label: 'step 3'
+id: offer.full
+label: Full
 description: ''
 targetEntityType: offer
 cache: true

@@ -125,8 +125,23 @@ display:
             operator: ''
       style:
         type: grid
+        options:
+          grouping: {  }
+          columns: 4
+          automatic_width: true
+          alignment: horizontal
+          row_class_custom: ''
+          row_class_default: true
+          col_class_custom: ''
+          col_class_default: true
       row:
         type: fields
+        options:
+          default_field_elements: true
+          inline:
+            rendered_entity: rendered_entity
+          separator: ''
+          hide_empty: false
       query:
         type: views_query
         options:

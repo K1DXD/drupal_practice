@@ -1,41 +1,40 @@
-uuid: 86bfe5e3-1643-4cba-9c1e-f2e60fd71fd7
+uuid: d03b2309-20fd-4aec-8e47-abe50bc87050
 langcode: en
 status: true
 dependencies:
   config:
-    - core.entity_form_mode.offer.step2
+    - core.entity_view_mode.offer.full
     - field.field.offer.offer.field_description
     - field.field.offer.offer.field_image
     - field.field.offer.offer.field_offer_type
     - field.field.offer.offer.field_price
   module:
-    - media_library
     - offer
-id: offer.offer.step2
+    - text
+id: offer.offer.full
 targetEntityType: offer
 bundle: offer
-mode: step2
+mode: full
 content:
-  field_image:
-    type: media_library_widget
+  field_description:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
     weight: 1
     region: content
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
     settings:
-      media_types: {  }
+      view_mode: default
+      link: false
     third_party_settings: {  }
-  user_id:
-    type: entity_reference_autocomplete
     weight: 0
     region: content
-    settings:
-      match_operator: CONTAINS
-      match_limit: 10
-      size: 60
-      placeholder: ''
-    third_party_settings: {  }
 hidden:
-  field_description: true
+  content_moderation_control: true
   field_offer_type: true
   field_price: true
-  moderation_state: true
   title: true
+  user_id: true
